@@ -1,7 +1,6 @@
 # elterngeld
 
-> A Vue.js project
-
+quick side project to calculate governmental aid for parents when taking parental leave
 ## Build Setup
 
 ``` bash
